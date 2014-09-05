@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-Introduction to GitHub via Hello World project
+Hi Everyone!
+
+This is my first edit on GitHub. Seems pretty sweet!
